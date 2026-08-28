@@ -1,0 +1,7 @@
+url: https://github.com/Olina1Ye/internal-skill-workshop-plugin
+name: Olina1Ye/internal-skill-workshop-plugin
+category: skill
+tarball: https://github.com/Olina1Ye/internal-skill-workshop-plugin/releases/download/v0.1.0/internal-skill-workshop-0.1.0.tgz
+description:
+  en: 'Adds an Internal Skill Workshop panel to DeepSeek Harness for browsing skills from a configured Skill Base server.'
+  zh: '在 DeepSeek Harness 中增加 Internal Skill Workshop 面板，用于浏览配置的 Skill Base 服务中的 Skill。'
